@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<a>
+<p url="http://flash.loc/BatUpload/swfupload.php" dizhi="www.baidu.com" />
+<button btitle="浏览图片" bsize="12" bcolor="0x3369E8" bwidth="100" bheight="30" bX="10" bY="10" />
+<guolv descr="图片|*.jpg;*.gif;*.jpeg;*.png;*.bmp;" imgtype="*.jpg;*.gif;*.jpeg;*.png;*.bmp;" />
+</a>
